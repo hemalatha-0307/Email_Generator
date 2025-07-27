@@ -45,13 +45,10 @@ This application is ideal for understanding **OOP concepts, Java Swing**, and us
 ## 📷 Screenshots
 ---<img width="1366" height="727" alt="Email generator pic" src="https://github.com/user-attachments/assets/e2bc1794-bed9-4661-8000-5e103265aec7" />
 
-## 🙋‍♀️ Made by
-
+## 🙋‍♀️ Developer Info
 **Hemalatha M**  
 B.Tech Information Technology,  
 Rajalakshmi Engineering College  
 
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/your-link)  
-📂 [View this GitHub Repository](https://github.com/your-repo-link)
-
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/hemalatha-m-064190332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 ---
